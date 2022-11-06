@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats-opal-five-16.vercel.app/api/top-langs?username=p0ise&show_icons=true&locale=en&layout=compact&&theme=radical" alt="p0ise" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p0ise&show_icons=true&cache_seconds=1800&locale=zh" alt="p0ise" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-opal-five-16.vercel.app/api?username=p0ise&show_icons=true&cache_seconds=1800&locale=zh" alt="p0ise" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p0ise&" alt="p0ise" /></p>
 
