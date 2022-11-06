@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Binary Exploitation**
 
-- 📝 I regularly write articles on [www.p0ise.com](www.p0ise.com)
+- 📝 I regularly write articles on [p0ise's blog](https://www.p0ise.com)
 
 - 📫 How to reach me **changelf@163.com**
 
