@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0ise&show_icons=true&theme=radical)
+
 <!--
 **p0ise/p0ise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
