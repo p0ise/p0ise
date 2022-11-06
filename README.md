@@ -26,9 +26,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/p0ise"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="p0ise" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats-opal-five-16.vercel.app/api/top-langs?username=p0ise&show_icons=true&locale=en&layout=compact&&theme=radical" alt="p0ise" /></p>
+<p><img align="left" src="https://github-readme-stats-opal-five-16.vercel.app/api/top-langs?username=p0ise&show_icons=true&locale=en&layout=compact&theme=radical" alt="p0ise" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-opal-five-16.vercel.app/api?username=p0ise&show_icons=true&cache_seconds=1800&locale=zh" alt="p0ise" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-opal-five-16.vercel.app/api?username=p0ise&show_icons=true&cache_seconds=1800&locale=en" alt="p0ise" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p0ise&" alt="p0ise" /></p>
 
