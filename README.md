@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DASCTF 十月赛 1!5! WriteUp](https://www.p0ise.cn/2022/11/dasctf-2020-10-15-writeup.html)
-- [shellcode编码](https://www.p0ise.cn/2022/11/shellcode-encode.html)
-- [DASCTF X CBCTF 2022 九月挑战赛 ez_note WriteUp](https://www.p0ise.cn/2022/10/dasctf-cbctf-2022-09-ez_note-writeup.html)
-- [切割堆块](https://www.p0ise.cn/2022/10/chunk_split.html)
+- [DASCTF 十月赛 1!5! WriteUp](https://www.p0ise.cn/security/binary/dasctf-2020-10-15-writeup.html)
+- [shellcode编码](https://www.p0ise.cn/security/binary/shellcode-encode.html)
+- [DASCTF X CBCTF 2022 九月挑战赛 ez_note WriteUp](https://www.p0ise.cn/security/binary/dasctf-cbctf-2022-09-ez_note-writeup.html)
+- [切割堆块](https://www.p0ise.cn/security/binary/chunk_split.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
