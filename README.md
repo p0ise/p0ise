@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [nonebot2+go-cqhttp搭建QQ机器人](https://www.p0ise.cn/open-source/nonebot2go-cqhttp-build-qqbot.html)
 - [windows命令行输入python弹出微软商店](https://www.p0ise.cn/misc/windows-cli-python-pops-up-ms-store.html)
 - [BugKu repeater WriteUp](https://www.p0ise.cn/security/binary/bugku-repeater-writeup.html)
 - [DASCTF 十月赛 1!5! WriteUp](https://www.p0ise.cn/security/binary/dasctf-2020-10-15-writeup.html)
-- [shellcode编码](https://www.p0ise.cn/security/binary/shellcode-encode.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
