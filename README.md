@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [windows命令行输入python弹出微软商店](https://www.p0ise.cn/misc/windows-cli-python-pops-up-ms-store.html)
 - [BugKu repeater WriteUp](https://www.p0ise.cn/security/binary/bugku-repeater-writeup.html)
 - [DASCTF 十月赛 1!5! WriteUp](https://www.p0ise.cn/security/binary/dasctf-2020-10-15-writeup.html)
 - [shellcode编码](https://www.p0ise.cn/security/binary/shellcode-encode.html)
-- [DASCTF X CBCTF 2022 九月挑战赛 ez_note WriteUp](https://www.p0ise.cn/security/binary/dasctf-cbctf-2022-09-ez_note-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
