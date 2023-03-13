@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [安卓逆向去广告与弹窗学习笔记](https://www.p0ise.cn/security/reverse/remove-ads-and-pop-up-windows-from-apk.html)
 - [libc.so.6 背后的含义](https://www.p0ise.cn/security/binary/the-meaning-behind-libc-so-6.html)
 - [2022重庆市大学生信息安全竞赛Root_RSA WP](https://www.p0ise.cn/security/crypto/crypto-root_rsa-wp.html)
 - [CentOS7安装Python310](https://www.p0ise.cn/misc/centos7-install-python310.html)
-- [nonebot2+go-cqhttp搭建QQ机器人](https://www.p0ise.cn/open-source/nonebot2go-cqhttp-build-qqbot.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
