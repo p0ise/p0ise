@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [掌握二分查找算法：初始化、查找区间与终止条件](https://www.p0ise.cn/misc/mastering-binary-search-initialization-interval-termination.html)
+- [安卓逆向：动态调试](https://www.p0ise.cn/security/reverse/android-reverse-engineering-dynamic-debugging-guide.html)
 - [USB HID 流量分析详解](https://www.p0ise.cn/misc/usb-hid-traffic-analysis.html)
-- [安卓逆向去广告与弹窗学习笔记](https://www.p0ise.cn/security/reverse/remove-ads-and-pop-up-windows-from-apk.html)
-- [libc.so.6 背后的含义](https://www.p0ise.cn/security/binary/the-meaning-behind-libc-so-6.html)
-- [2022重庆市大学生信息安全竞赛Root_RSA WP](https://www.p0ise.cn/security/crypto/crypto-root_rsa-wp.html)
+- [安卓逆向：去广告与弹窗](https://www.p0ise.cn/security/reverse/android-reverse-ad-and-popup-removal-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
