@@ -14,9 +14,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [掌握二分查找算法：初始化、查找区间与终止条件](https://www.p0ise.cn/misc/mastering-binary-search-initialization-interval-termination.html)
-- [安卓逆向：动态调试](https://www.p0ise.cn/security/reverse/android-reverse-engineering-dynamic-debugging-guide.html)
+- [安卓逆向：动态调试](https://www.p0ise.cn/ctf/reverse/android-reverse-engineering-dynamic-debugging-guide.html)
 - [USB HID 流量分析详解](https://www.p0ise.cn/misc/usb-hid-traffic-analysis.html)
-- [安卓逆向：去广告与弹窗](https://www.p0ise.cn/security/reverse/android-reverse-ad-and-popup-removal-guide.html)
+- [安卓逆向：去广告与弹窗](https://www.p0ise.cn/ctf/reverse/android-reverse-ad-and-popup-removal-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
