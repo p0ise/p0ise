@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p0ise&theme=tokyonight" alt="p0ise" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Binary Security**
+- 🌱 I’m currently learning **Android, Web Security**
 
 - 📝 I regularly write articles on [p0ise's blog](https://www.p0ise.com)
 
